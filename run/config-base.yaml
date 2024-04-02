@@ -1,0 +1,10 @@
+
+webserver:
+  port: 8080
+
+database:
+  hostname: localhost
+  port: 3006
+  username: root
+  password: APPLIED_VIA_ENV
+  schema: journal
